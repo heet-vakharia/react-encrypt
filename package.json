@@ -1,6 +1,5 @@
 {
   "dependencies": {
-
     "uid": "^2.0.0"
   },
   "type": "module",
@@ -12,7 +11,7 @@
   "author": "Heet Vakharia, Kandarp Sharda ,",
   "license": "ISC",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",

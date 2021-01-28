@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "uid": "^2.0.0"
+  },
+  "type": "module",
+  "name": "react-encrypt",
+  "version": "0.0.1",
+  "description": "Encrypt and Decrypt Data",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

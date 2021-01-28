@@ -1,13 +1,31 @@
 {
   "dependencies": {
+
     "uid": "^2.0.0"
   },
   "type": "module",
-  "name": "react-encrypt",
+  "name": "react-encrypt-decrypt",
   "version": "0.0.1",
   "description": "Encrypt and Decrypt Data",
   "main": "index.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "Heet Vakharia, Kandarp Sharda ,",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heet-vakharia/react-encrypt.git"
+  },
+  "keywords": [
+    "react",
+    "encrypt",
+    "decrypt",
+    "react-encrypt"
+  ],
+  "bugs": {
+    "url": "https://github.com/heet-vakharia/react-encrypt/issues"
+  },
+  "homepage": "https://github.com/heet-vakharia/react-encrypt#readme"
 }
